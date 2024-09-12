@@ -20,9 +20,6 @@ Developed a backend system for a job ordering platform using Spring Boot and Spr
 ## Current Status
 - **Completed:** All major endpoints for job management, worker interactions, and data filtering are implemented. 
 
-## Link
-- [Project Repository](#) (Replace with actual link to your project repository)
-
 ## Next Steps
 - Monitor performance and integrate additional features based on feedback.
 - Enhance documentation and provide further testing.
