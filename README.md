@@ -15,7 +15,7 @@ Developed a backend system for a job ordering platform using Spring Boot and Spr
 
 - **Backend:** Spring Boot, Spring Framework
 - **Architecture:** Microservices
-- **Database:** (Specify if applicable, e.g., PostgreSQL, MySQL)
+- **Database:** PostgreSQL
 
 ## Current Status
 - **Completed:** All major endpoints for job management, worker interactions, and data filtering are implemented. 
